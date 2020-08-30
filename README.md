@@ -34,15 +34,15 @@ The app should open in your browser at localhost:3000 (The default React PORT)
 # Added functionality from original project
 ## Features
 #### 1. SignIn and Authentication
-![Sign In](/screenshots/Sign_In.png)
+![Sign In](/__screenshots/Sign_In.png)
 
 #### 2. Drag and Drop
 This was a tweak on the original UI allowing for the itenerary to be reshuffled by drag and drop
-![Drag and Drop](/screenshots/Drag_and_drop.gif)
+![Drag and Drop](/__screenshots/Drag_and_drop.gif)
 
 #### 3. Email
 Allowing for emailing of the itenerary via a personal account
-![email](/screenshots/email.png)
+![email](/__screenshots/email.png)
 
 ## Testing
 Functional testing was added to the project to help with development of new features
